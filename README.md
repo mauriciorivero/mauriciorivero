@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/mauriciorivero"><img src="https://github.com/mauriciorivero/mauriciorivero/blob/master/devcard.svg" width="400" alt="Mauricio Rivero's Dev Card"/></a>
+<a href="https://app.daily.dev/mauriciorivero"><img src="https://raw.githubusercontent.com/mauriciorivero/mauriciorivero/aaac171bac0d98093f489c01f3357b1eac6769ab/devcard.svg" width="400" alt="Mauricio Rivero's Dev Card"/></a>
 <!--
 **mauriciorivero/mauriciorivero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
