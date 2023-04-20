@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some educatioinal contentd and a platform for homeschooler parents
-- 🌱 I’m currently learning Reac.js Vue.js and Nuxt
+- 🌱 I’m currently learning React.js Vue.js and Nuxt.js
 - 👯 I’m looking to collaborate on UI Design and Frontend projects
 - 🤔 I’m looking for help with Frontend developers, and Educational Digital Content
 - 💬 Ask me about Frontend, e-learning, gamification and games!
